@@ -13,9 +13,9 @@ var options =
 	identity: 
 	{
 		username: "shamanngus",
-		password: "oauth:rlgglcpdim15hcokvis9rhyds7wvtc",  
+		password: "oauth:7bd3jynzlsizrm9qz5n9wcw387pbef",  
 	},
-	channels: ['#johnpittertv', '#gaules',] //ADICIONA OS CANAIS AQ COM '#NOME'
+	channels: ['#johnpittertv', '#gaules', '#surskity',] //ADICIONA OS CANAIS AQ COM '#NOME'
 };
 
 var client = new tmi.client(options);
